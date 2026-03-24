@@ -1,4 +1,4 @@
-Here's the README — copy and paste it into your GitHub:
+Here's the README 
 # ⬡ LedgerBank Web
 
 A React.js web dashboard for LedgerBank — featuring authentication, wallet management, fund transfers, transaction history, and loan workflows. Connected to the live LedgerBank REST API.
